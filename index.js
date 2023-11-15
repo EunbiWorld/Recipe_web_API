@@ -1,5 +1,8 @@
 const express = require("express");
+const cors = require('cors'); // 'cors' 미들웨어를 가져오기
 const app = express();
+
+app.use(cors()); // 모든 요청에 CORS 헤더를 추가
 
 const recipe_api = require("./recipe_API_JSON.json");
 
