@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 
-const recipe_api = require("./recipe_API_JSON");
+const recipe_api = require("./recipe_API_JSON.json");
 
 const server = app.listen(3000, function () {
   const host = server.address().address;
