@@ -1,6 +1,6 @@
 {                   
-    "food":{
-        "food recipe":[
+    "Food":{
+        "Food recipe":[
             {
                 "ID":"food_01",
                 "Image":"https://raw.githubusercontent.com/kinick1/json_create_for_food/main/Food_Image/food_01.webp",
