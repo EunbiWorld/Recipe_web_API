@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <script>
+      // GitHub 계정 이름, 레포지토리 이름, 파일 경로를 정의
+      const owner = "EunbiWorld";
+      const repo = "Recipe_web_API";
+      const path = "recipe_API_JSON.json";
+      // 위에서 정의한 GitHub API 엔드포인트 URL 생성
+      const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${path}`;
+
+      // 생성한 URL로 GET 요청을 보내기. 웹 브라우저가 페이지를 로드할 때 자동 실행
+      fetch(apiUrl)
+        .then((response) => response.json())
+        .then((data) => {
+          // 파일 내용은 data.content에 base64로 인코딩된 형태로 포함됩니다.
+          // base64 : 바이너리 데이터를 텍스트 형식으로 변환하는 인코딩 방식 중 하나
+          const content = atob(data.content);
+
+          // 콘솔에 파일 내용을 출력
+          console.log(content);
+          // 웹 페이지에 파일 내용을 출력
+          document.body.innerText = content;
+        })
+        .catch((error) => {
+          // 요청 실패시, 에러 콘솔에 출력
+          console.error("에러 발생:", error);
+        });
+    </script>
+  </body>
+</html>

@@ -14,6 +14,6 @@ app.get('/', (req, res) => {
     res.send('Hello World!');
 });
 
-app.get('/get_recipe', (req, res) => {
+app.get('/api/recipe', (req, res) => {
     res.json(recipe_api);
 } );
