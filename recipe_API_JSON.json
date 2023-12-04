@@ -4,7 +4,7 @@
             {
                 "ID":"food_01",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_01.webp",
-                "Title": "백종원 김치볶음밥 레시피 누구나 쉽게 만드는 팁까지",
+                "Title": "백종원 김치볶음밥",
                 "time":"10분 이내",
                 "nation":"한식",
                 "Source": "밥1공기\n신김치1/2공기\n대파1대\n계란1개\n기름2T\n간장1T\n고춧가루1T\n참기름1/2T\n미림(맛술)1/2T\n소금1꼬집",
@@ -14,7 +14,7 @@
             {
                 "ID":"food_02",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_02.webp",
-                "Title":"닭칼국수 만들기 # 꽃샘 추위엔 호로록 닭칼국수",
+                "Title":"닭칼국수",
                 "time":"30분 이내",
                 "nation":"한식",
                 "Source":"물1100ml\n통파1대\n통마늘2~3알\n닭가슴살1덩이\n칼국수2줌(320g)\n애호박\n당근\n양파20g씩\n소금1꼬집\n후춧가루약간\n간마늘1T\n채썬양파1/2T\n채썬고추1/2T\n간장4T\n고춧가루1/2T\n참기름1/2T",
@@ -24,7 +24,7 @@
             {
                 "ID":"food_03",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_03.webp",
-                "Title":"매콤 된장찌개, 채소와 두부만 넣은 초간단 초스피드 된장찌개",
+                "Title":"매콤 된장찌개",
                 "time":"15분 이내",
                 "nation":"한식",
                 "Source":"느타리버섯1줌\n양파1/2개\n애호박1/4개\n청양고추2개\n두부1/4모\n물1.5종이컵\n된장2T\n진간장1T\n고추가루1.5T\n다진마늘0.5T\n설탕0.5티스푼\n소금마지막간",
@@ -34,7 +34,7 @@
             {
                 "ID":"food_04",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_04.webp",
-                "Title":"순두부찜 (다이어트음식에 아주 좋은 순두부요리)",
+                "Title":"순두부찜",
                 "time":"10분 이내",
                 "nation":"한식",
                 "Source":"순두부1개\n대파1/2대\n홍고추1개\n다진마늘0.5T\n진간장2T\n참치액1T\n맛술1T\n참기름1T\n통깨1T\n고춧가루1T",
@@ -44,7 +44,7 @@
             {
                 "ID":"food_05",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_05.webp",
-                "Title":"백종원 김치찌개 레시피 백종원 7분김치찌개",
+                "Title":"백종원 김치찌개",
                 "time":"60분 이내",
                 "nation":"한식",
                 "Source":"쌀뜨물(종이컵5컵)700ml.\n대파1/2개.\n청양고추1개.\n돼지고기목살또는삼겹살.\n김치3줌.\n국간장1T.\n고춧가루1/2T.\n다진마늘1/2T.\n새우젓1/2T.\n된장1/2T.\n",
@@ -54,7 +54,7 @@
             {
                 "ID":"food_06",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_06.webp",
-                "Title":"추억가득 옛날사라다 듬뿍넣은 샌드위치",
+                "Title":"추억 사라다 샌드위치",
                 "time":"30분 이내",
                 "nation":"한식",
                 "Source":"빵4쪽\n양배추약간\n오이1개\n당근1/2개\n적채약간\n크래미3개\n사과1개\n마요네즈8큰술\n설탕4큰술\n머스터드소스2큰술\n소금약간",
@@ -64,7 +64,7 @@
             {
                 "ID":"food_07",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_07.webp",
-                "Title":"닭볶음탕 닭도리탕 황금레시피 짱짱맛 칼칼함이 남달라",
+                "Title":"닭볶음탕",
                 "time":"60분 이내",
                 "nation":"한식",
                 "Source":"닭1마리\n당근1/3개\n양파1/2개\n감자3개\n대파초록색부분20센티4개\n청양고추4개\n고추장2큰술\n고추가루7큰술\n설탕2큰술\n국간장5큰술\n마늘1큰술아주듬뿍\n물1소주잔",
@@ -74,7 +74,7 @@
             {
                 "ID":"food_08",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_08.webp",
-                "Title":"감자채볶음 요리",
+                "Title":"감자채볶음",
                 "time":"15분 이내",
                 "nation":"한식",
                 "Source":"감자(중)2개\n양파(중)1개\n당근약간\n카놀라이유약간\n통깨약간\n소금약간",
@@ -84,7 +84,7 @@
             {
                 "ID":"food_09",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_09.webp",
-                "Title":"수미네반찬 김치전 만들기 바삭하게",
+                "Title":"수미네반찬 김치전",
                 "time":"10분 이내",
                 "nation":"한식",
                 "Source":"김치2컵 \n부침가루1컵 \n김치국물1/3컵 \n물2/3컵 \n다진마늘1/2스푼",
@@ -94,7 +94,7 @@
             {
                 "ID":"food_10",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_10.webp",
-                "Title":"매운돼지갈비찜 매운양념 만들기",
+                "Title":"매운돼지갈비찜",
                 "time":"60분 이내",
                 "nation":"한식",
                 "Source":"돼지갈비 1.5kg \n고구마 2개 \n대파 1대 \n양파 1/2개 \n당근 1/3토막 \n청양고추 4개 \n통깨 약간",
@@ -104,7 +104,7 @@
             {
                 "ID":"food_11",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_11.webp",
-                "Title":"오꼬노미야끼 집에서 간단히 만들기~",
+                "Title":"오꼬노미야끼",
                 "time":"30분 이내",
                 "nation":"일식",
                 "Source":"밀가루 (부침/튀김가루)  250ml계란  1개물  180ml (2/3컵)양배추  2컵맛술  1큰술베이컨  3장오징어  1/2마리가쓰오부시  1컵마요네즈  약간쪽파  약간돈가스 소스  적당량",
@@ -114,7 +114,7 @@
             {
                 "ID":"food_12",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_12.webp",
-                "Title":"우동면 사러가는게 제일 힘들었던 김치나베우동!!",
+                "Title":"김치나베우동",
                 "time":"30분 이내",
                 "nation":"일식",
                 "Source":"물  2L \n한생원 해물육수 팩  1개 \n한생원 천연 버섯육수 팩  1개 \n김치국 그릇  1/3 \n어묵 모둠  1봉지 \n우동면  2봉지 \n양파  1/2개 \n대파  1/2개 \n팽이버섯  1개 \n국간장  3스푼 \n고춧가루  1스푼 \n다진 마늘  1스푼 \n김치국 물 종이컵  1/2컵",
@@ -124,7 +124,7 @@
             {
                 "ID":"food_13",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_13.webp",
-                "Title":"새콤달콤 탕수육♡",
+                "Title":"탕수육",
                 "time":"60분 이내",
                 "nation":"중식",
                 "Source":"돼지고기안심300g \n소금약간 \n후추약간 \n계란노른자1개 \n감자전분100%250g \n파프리카(색깔별로)각1/2개씩 \n양파1/2개 \n포도씨유250cc \n물250cc \n레몬가루3T \n설탕3T \n소금약간 \n포도씨유1T \n감자전분1/2T",
@@ -134,7 +134,7 @@
             {
                 "ID":"food_14",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_14.webp",
-                "Title":"바삭바삭 부추전 만드는법",
+                "Title":"부추전",
                 "time":"10분 이내",
                 "nation":"한식",
                 "Source":"부추 500원동전굵기정도 \n당근 5cm한토막 \n양파 1/2개 \n청양고추 2개 \n부침가루 1컵 \n찬물 2/3컵 \n카놀라유 약간",
@@ -144,7 +144,7 @@
             {
                 "ID":"food_15",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_15.webp",
-                "Title":"생생정보통 황금레시피-김밥만들기",
+                "Title":"생생정보통 김밥",
                 "time":"90분 이내",
                 "nation":"한식",
                 "Source":"밥  \n김밥용김 12장 \n햄 8개 \n단무지 8개 \n오이 1+1/2개 \n당근 1개 \n어묵 2장 \n계란 3개 \n맛살 4개(생략가능) \n참기름  \n소금  \n간장  \n맛술  \n물엿 ",
@@ -154,7 +154,7 @@
             {
                 "ID":"food_16",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_16.webp",
-                "Title": "고체카레로 일본식 카레 만들어요",
+                "Title": "일본식 카레",
                 "time":"30분 이내",
                 "nation":"일식",
                 "Source":"고형카레 1개 \n버터 2큰술 \n우유 500ml \n물 700ml \n감자 2개 \n당근 1/2개 \n피망 1개 \n양파 1개 \n소고기 400g",
@@ -164,7 +164,7 @@
             {
                 "ID":"food_17",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_17.webp",
-                "Title":"단짠단짠 너무맛있는별미, 간장쪽갈비",
+                "Title":"간장쪽갈비",
                 "time":"60분 이내",
                 "nation":"한식",
                 "Source":"등갈비 1kg \n된장 1T \n통마늘 5개 \n간장 8T \n설탕 4T \n물엿 4T \n매실액 2T \n맛술 4T \n다진마늘 2T \n참기름 1T \n물 700ml \n깨 약간",
@@ -174,7 +174,7 @@
             {
                 "ID":"food_18",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_18.webp",
-                "Title":"집밥 백선생 짬뽕 ",
+                "Title":"백종원 짬뽕 ",
                 "time":"30분 이내",
                 "nation":"중식",
                 "Source":"오징어  \n돼지고기 1종이컵 \n양배추 1컵사발 \n당근 1종이컵 \n호박 1컵사발 \n양파 1컵사발 \n청양고추 1소주컵 \n부추 1종이컵 \n파  \n생강  \n후추  \n고춧가루  \n간장  \n소금 ",
@@ -184,7 +184,7 @@
             {
                 "ID":"food_19",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_19.webp",
-                "Title":"족발 만들기, 족발집 족발 부럽지 않은 맛",
+                "Title":"족발",
                 "time":"120분 이내",
                 "nation":"한식",
                 "Source":"미니족(단족)2개 \n장족(무릎뼈아래)1개 \n양파 1개 \n통마늘 1통 \n대파 1대 \n에스프레소샷 2개 \n된장 2큰술 \n통후추 1큰술 \n파뿌리(선택)  \n청양고추 2개 \n화이트와인 2잔(소주잔기준) \n간장 2컵반(종이컵기준) \n물엿 1컵 \n설탕 1+1/2컵",
@@ -194,7 +194,7 @@
             {
                 "ID":"food_20",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_20.webp",
-                "Title":"제육볶음 만드는법 # 기사식당st 레시피",
+                "Title":"제육볶음",
                 "time":"30분 이내",
                 "nation":"한식",
                 "Source":"돼지고기앞다리살 1근 \n양파 1개 \n당근 1/3개 \n마늘 1스푼 \n파 약간 \n고추 기호에맞게 \n간장 2스푼 \n물엿 1스푼 \n매실액 2스푼 \n고추장 1스푼 \n고춧가루 2스푼 \n후추가루 약간",
@@ -204,7 +204,7 @@
             {
                 "ID":"food_21",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_21.webp",
-                "Title":"오징어 볶음, 향과 맛이 일품! 백종원 오징어 볶음",
+                "Title":"백종원 오징어 볶음",
                 "time":"20분 이내",
                 "nation":"한식",
                 "Source":"오징어 2마리(큰사이즈) \n양배추 1/4통 \n당근 1/2개 \n양파 1개 \n풋고추 2개 \n파 2뿌리 \n식용유 3큰술 \n설탕 1큰술 \n마늘 1큰술 \n고추장 1큰술 \n간장 5큰술 \n고춧가루 3큰술 \n물 1/2컵 \n참기름 1큰술 \n통깨 적당량",
@@ -214,7 +214,7 @@
             {
                 "ID":"food_22",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_22.webp",
-                "Title":"연어 포케 (Salmon Poke)",
+                "Title":"연어 포케",
                 "time":"30분 이내",
                 "nation":"양식",
                 "Source":"연어회 400g \n오이  \n당근  \n양파  \n어린잎 채소 \n아보카도  \n실란트로  \n김  \n간장 4큰술 \n맛술 2큰술 \n식초 1큰술 \n라임제스트+즙 1작은술 \n꿀 1큰술 \n참기름 2큰술 \n와사비 1작은술",
@@ -224,7 +224,7 @@
             {
                 "ID":"food_23",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_23.webp",
-                "Title":"완전 초간단 연어장 만들기",
+                "Title":"연어장",
                 "time":"2시간 이상",
                 "nation":"일식",
                 "Source":"연어회 600g \n양파 1개 \n청양고추 2개 \n레몬 1개 \n쯔유(4배농축시판용) 2컵 \n양조간장 1컵 \n생수 2컵 \n후추 약간",
@@ -234,7 +234,7 @@
             {
                 "ID":"food_24",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_24.webp",
-                "Title":"소고기무국 황금레시피, 재료는 간단! 맛은 최고!",
+                "Title":"소고기무국",
                 "time":"30분 이내",
                 "nation":"한식",
                 "Source":"무 1/3개 \n소고기(국거리용)  \n대파 1개 \n참기름 2T \n간마늘 1T \n(집)국간장 4T \n멸치육수(or물) 적당량",
@@ -244,7 +244,7 @@
             {
                 "ID":"food_25",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_25.webp",
-                "Title":"돼지불백 만들기~ 기사식당 스타일 빠삭 돼지불백의 맛을 알려 드립니다!!",
+                "Title":"돼지불백",
                 "time":"30분 이내",
                 "nation":"한식",
                 "Source":"돼지앞다리살 600g \n다진양파 1/4개 \n다진대파 1/2대 \n다진마늘 1큰술 \n진간장 6스푼 \n굴소스 1스푼 \n물엿 2스푼 \n미림 2스푼 \n고추가루 1/2스푼 \n설탕 3스푼 \n생강가루 1/5스푼 \n후추가루 1~2꼬집 \n참기름 1스푼",
@@ -254,7 +254,7 @@
             {
                 "ID":"food_26",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_26.webp",
-                "Title":"닭꼬치 만드는 법(사케가 생각나는 닭꼬치)",
+                "Title":"닭꼬치",
                 "time":"30분 이내",
                 "nation":"한식",
                 "Source":"닭다리살 500g \n대파 1뿌리 \n기름 약간 \n석쇠1개 \n간장 2T \n생강가루 약간 \n청주나소주 2Ts \n설탕 1Ts \n간장 4Ts \n청주 4Ts \n미림 4Ts \n설탕 4Ts",
@@ -274,7 +274,7 @@
             {
                 "ID":"food_28",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_28.webp",
-                "Title":"바삭촉촉한 감자고로케 만들기",
+                "Title":"감자고로케",
                 "time":"60분 이내",
                 "nation":"양식",
                 "Source":"감자 7개 \n햄 100g \n양파 1개 \n당근 1/3개 \n우유 1/2컵 \n달걀 2개 \n빵가루 적당량 \n밀가루 적당량 \n식용유 튀김용량 \n소금 약간",
@@ -284,7 +284,7 @@
             {
                 "ID":"food_29",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_29.webp",
-                "Title":"바로 볶아내 진한 <<간짜장>>",
+                "Title":"간짜장",
                 "time":"30분 이내",
                 "nation":"중식",
                 "Source":"춘장 200g \n감자 2개 \n양파 1개 \n돼지고기 200g \n파 3쪽 \n기름 6큰술 \n설탕 3큰술",
@@ -294,7 +294,7 @@
             {
                 "ID":"food_30",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_30.webp",
-                "Title":"맛있는 밑반찬 백종원 가지볶음",
+                "Title":"백종원 가지볶음",
                 "time":"15분 이내",
                 "nation":"한식",
                 "Source":"가지 2개 \n고추 1개 \n양파 1/4개 \n대파 1대 \n참기름 1큰술 \n통깨 0.5큰술 \n간장 2큰술 \n굴소스 1큰술 \n설탕 1큰술 \n다진마늘 0.5큰술 \n고추가루 0.5큰술",
