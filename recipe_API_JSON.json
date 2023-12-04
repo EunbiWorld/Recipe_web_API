@@ -1,6 +1,6 @@
 {                   
-    "food":{
-        "food recipe":[
+    "Food":{
+        "Food recipe":[
             {
                 "ID":"food_01",
                 "Image":"https://raw.githubusercontent.com/EunbiWorld/Recipe_web_API/main/Food/food_01.webp",
